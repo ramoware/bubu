@@ -1,5 +1,7 @@
 # 💖 For My Bubuuu - A Growing Love Story 💖
 
+![Love](https://img.shields.io/badge/💝-Love-ff69b4)
+
 A sweet and interactive web experience I created for my amazing girlfriend, featuring our special moments that grow with each click!
 
 ## 🌟 What is this?
