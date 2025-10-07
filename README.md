@@ -15,16 +15,6 @@ This is a personalized digital love letter that reveals our beautiful memories o
 - **Mobile Friendly**: Looks great on any device
 - **Romantic Design**: Soft colors and pixel-perfect styling
 
-## 💕 Our Story in Pictures
-
-The experience takes you through:
-1. Our first meeting ✨
-2. That amazing date night 🌙
-3. Our adventure together 🗺️
-4. That cozy movie night 🎬
-5. Our special celebration 🎉
-6. And finally... my love for you! 💖
-
 ## 🛠️ How It Works
 
 1. **Open the page** and see our first memory
@@ -44,7 +34,6 @@ The experience takes you through:
 Simply open `index.html` in your web browser! It works on:
 - 💻 Desktop computers
 - 📱 Smartphones
-- 🖥️ Tablets
 
 ## 🎵 Perfect Moments
 
