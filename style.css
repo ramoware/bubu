@@ -183,3 +183,10 @@
       font-size: calc(var(--font-size-large) - 0.25rem);
     }
   }
+
+  .shrink-close-icons img {
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+  }
+

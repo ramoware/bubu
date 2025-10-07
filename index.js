@@ -19,6 +19,8 @@ const images = [
 const imageContent = document.querySelector('.image-content');  // Image container
 const mainButton = document.getElementById('main-button');      // Image switch button
 const finalMessage = document.querySelector('.final-message');  // Final message
+const closeBtn = document.getElementById('close-btn');         // Close button
+
 
 // =============================================
 // STEP 3: Track what image we're at 
@@ -72,4 +74,16 @@ mainButton.addEventListener('click', () => {
     mainButton.style.display = 'none';
     finalMessage.style.display = 'block';
   }
+});
+
+// EXTRA FUNCTIONALITY
+
+// Minimize button
+document.getElementById('shrink-btn').addEventListener('click', function() {
+    document.querySelector('.container').style.transform = 'scale(0)';
+});
+
+// Close button  
+document.getElementById('close-btn').addEventListener('click', function() {
+    document.querySelector('.container').style.display = 'none';
 });
